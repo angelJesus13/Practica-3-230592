@@ -1,0 +1,25 @@
+{
+  "name": "mx.edu.uxtj.ti.awi4.practica3",
+  "version": "1.0.0",
+  "description": "Manejo de Sesiones en NodeJs y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelJesus13/Practica-3-230592.git"
+  },
+  "keywords": [],
+  "author": "Angel de Jesus Baños Tellez | 230592",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelJesus13/Practica-3-230592/issues"
+  },
+  "homepage": "https://github.com/angelJesus13/Practica-3-230592#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
